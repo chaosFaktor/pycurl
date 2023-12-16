@@ -1,0 +1,389 @@
+<div class="container" id="content">
+ <ol class="breadcrumb">
+  <li>
+   <a href="https://www.druckspezialist.eu/uebersicht/stempel/102/">
+    Stempel
+   </a>
+  </li>
+  <li class="hidden-xs active">
+   Detailansicht
+  </li>
+ </ol>
+ <div class="row" itemscope="" itemtype="http://schema.org/Product">
+  <div class="col-xs-12 col-sm-6">
+   <div>
+    <div class="row">
+     <div class="col-xs-12">
+      <p>
+       <img alt="Stempel Modico M2 2 Zeilen" class="img-responsive produktfoto" data-zoom-image="https://www.druckspezialist.eu/pics/a3eefe076aeec2a98c2af73d3f18e852.jpg" itemprop="image" src="https://www.druckspezialist.eu/pics/555/a3eefe076aeec2a98c2af73d3f18e852.jpg" srcset="https://www.druckspezialist.eu/pics/555/a3eefe076aeec2a98c2af73d3f18e852.jpg 1x, https://www.druckspezialist.eu/pics/1110/a3eefe076aeec2a98c2af73d3f18e852.jpg 2x"/>
+      </p>
+      <div class="text-center">
+       <a class="zoom" href="https://www.druckspezialist.eu/pics/a3eefe076aeec2a98c2af73d3f18e852.jpg" rel="produkt">
+        <i class="fa fa-search fa-lg">
+        </i>
+        vergrößern
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="row" style="margin-top: 30px;">
+     <div class="col-xs-6 col-sm-4 col-md-3">
+      <a class="thumbnail zoom" href="https://www.druckspezialist.eu/pics/d22627934ab6a87e8410c8162b877882.jpg" rel="produkt">
+       <img alt="Stempel Modico M2 2 Zeilen" class="img-responsive" src="https://www.druckspezialist.eu/pics/106/d22627934ab6a87e8410c8162b877882.jpg" srcset="https://www.druckspezialist.eu/pics/106/d22627934ab6a87e8410c8162b877882.jpg 1x, https://www.druckspezialist.eu/pics/212/d22627934ab6a87e8410c8162b877882.jpg 2x"/>
+      </a>
+     </div>
+     <div class="col-xs-6 col-sm-4 col-md-3">
+      <a class="thumbnail zoom" href="https://www.druckspezialist.eu/pics/0d15f3dc08fa2b408c876486a2c6631c.jpg" rel="produkt">
+       <img alt="Stempel Modico M2 2 Zeilen" class="img-responsive" src="https://www.druckspezialist.eu/pics/106/0d15f3dc08fa2b408c876486a2c6631c.jpg" srcset="https://www.druckspezialist.eu/pics/106/0d15f3dc08fa2b408c876486a2c6631c.jpg 1x, https://www.druckspezialist.eu/pics/212/0d15f3dc08fa2b408c876486a2c6631c.jpg 2x"/>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="hidden-xs hidden-sm">
+    <hr/>
+    <p class="lead">
+     Das könnte Sie auch interessieren:
+    </p>
+    <div class="row">
+     <div class="col-xs-6 col-sm-3">
+      <a class="thumbnail" href="https://www.druckspezialist.eu/detail/15/stempel-modico-m3-3-zeilen/">
+       <img alt="Stempel Modico M3 3 Zeilen" class="img-responsive" src="https://www.druckspezialist.eu/pics/thumbs/ef4c752af70b6d7c587933586a73f1a0.jpg" title="Stempel Modico M3 3 Zeilen"/>
+      </a>
+     </div>
+     <div class="col-xs-6 col-sm-3">
+      <a class="thumbnail" href="https://www.druckspezialist.eu/detail/16/stempel-modico-m4-4-zeilen/">
+       <img alt="Stempel Modico M4 4 Zeilen" class="img-responsive" src="https://www.druckspezialist.eu/pics/thumbs/d5328f95d57022531b4a5dc10d4a53cc.jpg" title="Stempel Modico M4 4 Zeilen"/>
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="col-xs-12 col-sm-6">
+   <h1 class="product_heading">
+    <span itemprop="name">
+     Stempel Modico M2 2 Zeilen
+    </span>
+   </h1>
+   <p>
+    <small>
+     Artikel Nr.:
+     <span itemprop="mpn">
+      DSSTEM001
+     </span>
+    </small>
+   </p>
+   <p>
+    <span itemprop="description">
+     Modico-Stempel sind selbstfärbende Stempel inklusive Stempelkissen in der Textplatte. Daher entfällt wie bei anderen Stempeln der Mechanismus zum Drehen der Platte. Der Stempel M2 hat eine Abdruckfläche von 37x11 mm, was ca. 2-3 Zeilen Text entspricht.
+     <br>
+      Die dokumentenechte Stempelfarbe können Sie auswählen, ebenso wie die Gehäusefarbe.
+     </br>
+    </span>
+   </p>
+   <hr class="hidden-sm"/>
+   <form action="#" class="artikel" id="cart" method="post" name="cart" onsubmit="return false">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+     <div id="preis" style="margin-bottom: 30px;">
+     </div>
+     <meta content="19.9" itemprop="price">
+      <meta content="EUR" itemprop="priceCurrency">
+       <link href="http://schema.org/InStock" itemprop="availability">
+        <link href="http://schema.org/NewCondition" itemprop="itemCondition">
+         <div class="form-inline">
+          <div class="form-group">
+           <label for="anzahl">
+            Menge
+           </label>
+           <input class="form-control" id="anzahl" name="anzahl" style="width: 100px;" type="text" value="1"/>
+          </div>
+          <div class="checkbox">
+           <button class="btn btn-danger" id="berechnen" type="button">
+            berechnen
+           </button>
+          </div>
+         </div>
+         <hr/>
+         <div class="row">
+          <div class="col-xs-12 col-sm-4">
+           <label for="variante_43">
+            Gehäusefarbe
+           </label>
+          </div>
+          <div class="col-xs-12 col-sm-8">
+           <select class="form-control varianten" id="variante_43" name="variante[43]">
+            <option value="47">
+             schwarz
+            </option>
+            <option value="48">
+             rot
+            </option>
+            <option value="49">
+             hellblau
+            </option>
+            <option value="50">
+             dunkelblau
+            </option>
+            <option value="51">
+             grün
+            </option>
+           </select>
+          </div>
+         </div>
+         <hr/>
+         <div class="row">
+          <div class="col-xs-12 col-sm-4">
+           <label for="variante_49">
+            Abdruckfarbe
+           </label>
+          </div>
+          <div class="col-xs-12 col-sm-8">
+           <select class="form-control varianten" id="variante_49" name="variante[49]">
+            <option value="52">
+             schwarz
+            </option>
+            <option value="53">
+             blau
+            </option>
+            <option value="54">
+             rot
+            </option>
+           </select>
+          </div>
+         </div>
+         <p>
+         </p>
+         <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4">
+           <div class="form-group">
+            <button class="btn btn-danger btn-block" id="saveCart" style="max-width: 158px;" type="button">
+             In den Warenkorb
+            </button>
+            <input name="status" type="hidden" value="bestellen"/>
+            <p class="pointer" id="pp_checkoutDE" style="margin-top: 20px;">
+             <img alt="paypal-checkout" class="img-responsive" src="https://www.druckspezialist.eu/library/img/checkout.png"/>
+            </p>
+           </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-8">
+           <div id="lieferzeit">
+            <p>
+             Die Lieferung erfolgt zwischen
+             <br/>
+             Montag, 11. Dezember und Dienstag, 19. Dezember
+            </p>
+           </div>
+          </div>
+         </div>
+         <p class="text-muted">
+          Sie wünschen eine spezielle Menge, Sonderanfertigung oder andere Spezifikationen, welche Sie hier nicht bestellen können? Wir freuen uns Ihnen ein individuelles Angebot erstellen zu dürfen.
+          <a href="https://www.druckspezialist.eu/anfrage/?aid=14">
+           <i aria-hidden="true" class="fa fa-angle-double-right">
+           </i>
+           zum Anfrageformular
+          </a>
+         </p>
+         <p>
+          mehr Fragen?
+          <a href="https://api.whatsapp.com/send?phone=4915792611488&amp;text=Ich+habe+eine+Frage+zu%3A+Stempel+Modico+M2+2+Zeilen+Artikelnummer%3A+DSSTEM001">
+           <img alt="whatsapp" src="https://www.druckspezialist.eu/library/img/whatsapp.png"/>
+          </a>
+          e mit uns!
+         </p>
+        </link>
+       </link>
+      </meta>
+     </meta>
+    </div>
+   </form>
+  </div>
+ </div>
+ <script>
+  dataLayer.push({
+			'event': 'view_item',
+			'ecommerce': {
+				'items': [{
+	      			'item_name': 'Stempel Modico M2 2 Zeilen', // Name or ID is required.
+		      		'item_id': 'ArtID_14',
+	    	  		'price': 19.9,
+	      			'quantity': 1
+	      		}]
+	      	}
+	  	});
+ </script>
+ <script type="text/javascript">
+  $(document).ready(function() {
+	
+		$('#weiterlesen').click(function() {
+
+			$.ajax({
+				url: "https://www.druckspezialist.eu/ajax/load-text.php",
+				type: "post",
+				data: "typ=showText&artikel=14",
+				success: function(antwort) {
+					
+					ergebnis = jQuery.trim(antwort);
+			
+					if(ergebnis != '') {
+						$('#shortText').hide();
+						$('#longText').append(ergebnis);
+					}	
+				}		
+			});
+		});
+
+		
+		$('#saveCart').click(function() {
+
+			var values = $('.artikel').serialize();
+
+			$.ajax({
+				
+				url: "https://www.druckspezialist.eu/ajax/preisberechnung.php",
+				type: "post",
+				data: "typ=warenkorb&aid=14&"+values,
+							
+				success: function(antwort) {
+
+					dataLayer.push({
+						'event': 'add_to_cart',
+						'ecommerce': {
+							'items': [
+								{
+									'item_name': 'Stempel Modico M2 2 Zeilen',
+									'item_id': 'ArtID_14',
+									'price': 19.9,
+									'quantity': 1
+								}
+							]
+						}
+					});
+
+					ergebnis = jQuery.trim(antwort);
+					var ziel = "https://www.druckspezialist.eu/warenkorb/";					window.location.href = ziel;
+			
+				}		
+			});
+
+		});
+
+		$('#pp_checkoutDE').click(function() {
+
+			if($('#pp_checkoutDE').hasClass('pointer') == true) {
+
+				var values = $('.artikel').serialize();
+
+				$.ajax({
+					
+					url: "https://www.druckspezialist.eu/ajax/preisberechnung.php",
+					type: "post",
+					data: "typ=pp_checkout&aid=14&"+values,
+
+					beforeSend: function () {
+						$('#pp_checkoutDE').removeClass('pointer');
+						$('#pp_checkoutDE').empty();
+						$('#pp_checkoutDE').append('<i class="fa fa-spinner fa-spin fa-lg"></i> Bitte warten Sie werden gleich zu PayPal weitergeleitet...');
+					},
+								
+					success: function(antwort) {
+							
+						ergebnis = jQuery.trim(antwort);
+
+						try {
+							var obj = jQuery.parseJSON(antwort);
+								    
+							if(obj[0].status == "OK") {
+									
+								window.location.href = obj[0].token;
+
+							} else {
+
+								alert("Fehler");
+								// document.location.reload();
+							}
+
+						} catch(e) {
+						    alert("Fehler");
+						    // document.location.reload();
+						}
+
+					}		
+				});
+			}
+		});
+
+
+		function preisberechnung() {
+
+			var values = $('.artikel').serialize();
+
+			$.ajax({
+				
+				url: "https://www.druckspezialist.eu/ajax/preisberechnung.php",
+				type: "post",
+				data: "typ=preis&aid=14&"+values,
+							
+				success: function(antwort){
+
+					ergebnis = jQuery.trim(antwort);
+
+					$('#preis').empty();
+					$('#preis').append(ergebnis);
+
+
+					if (ergebnis.indexOf("Derzeit <span class=\"label label-danger\">0</span> Artikel auf Lager.") >= 0) {
+						$('#lieferzeit').hide();
+					} else {
+						$('#lieferzeit').show();
+					}
+				}		
+			});
+		}
+
+		function berechneLieferzeit() {
+			
+			var aid = "14";
+			var option = $('#express').val();
+
+			$.ajax({
+				
+				url: "https://www.druckspezialist.eu/ajax/lieferzeit-berechnung.php",
+				type: "post",
+				data: "typ=lieferzeit&aid=" + aid + "&option=" + option,
+							
+				success: function(antwort) {
+					
+					ergebnis = jQuery.trim(antwort);
+					
+					$('#lieferzeit').empty();
+					$('#lieferzeit').append(ergebnis);
+					
+				}		
+			});
+		}
+
+		$('#berechnen').click(function() {
+			preisberechnung();
+		});
+
+		$('#anzahl').change(function()    { preisberechnung(); });
+		$('#breite').change(function()    { preisberechnung(); });
+		$('#hoehe').change(function()     { preisberechnung(); });
+		$('.varianten').change(function() { preisberechnung(); });
+
+		$('#express').change(function() {
+			preisberechnung();
+			setTimeout(function(){ berechneLieferzeit() }, 150);
+		});
+
+	    	    	 $('.produktfoto').elevateZoom({
+				zoomType : "inner", 
+				cursor: "crosshair"
+			}); 
+	    	
+		$('.zoom').fancybox();
+
+		preisberechnung();
+
+	});
+ </script>
+</div>
